@@ -1,2 +1,3 @@
 Generate-name
-C#
+Project on Winforms C#
+Use File, Regex, .Net Framework 

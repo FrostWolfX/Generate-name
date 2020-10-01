@@ -1,0 +1,102 @@
+D:\Do it\C#\Для резюме\nameGenerator\bin\Debug\nameGenerator.exe.config
+D:\Do it\C#\Для резюме\nameGenerator\bin\Debug\nameGenerator.exe
+D:\Do it\C#\Для резюме\nameGenerator\bin\Debug\nameGenerator.pdb
+D:\Do it\C#\Для резюме\nameGenerator\bin\Debug\BouncyCastle.Crypto.dll
+D:\Do it\C#\Для резюме\nameGenerator\bin\Debug\Google.Protobuf.dll
+D:\Do it\C#\Для резюме\nameGenerator\bin\Debug\K4os.Compression.LZ4.dll
+D:\Do it\C#\Для резюме\nameGenerator\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Do it\C#\Для резюме\nameGenerator\bin\Debug\K4os.Hash.xxHash.dll
+D:\Do it\C#\Для резюме\nameGenerator\bin\Debug\MySql.Data.dll
+D:\Do it\C#\Для резюме\nameGenerator\bin\Debug\Renci.SshNet.dll
+D:\Do it\C#\Для резюме\nameGenerator\bin\Debug\System.Buffers.dll
+D:\Do it\C#\Для резюме\nameGenerator\bin\Debug\System.Memory.dll
+D:\Do it\C#\Для резюме\nameGenerator\bin\Debug\System.Numerics.Vectors.dll
+D:\Do it\C#\Для резюме\nameGenerator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Do it\C#\Для резюме\nameGenerator\bin\Debug\Ubiety.Dns.Core.dll
+D:\Do it\C#\Для резюме\nameGenerator\bin\Debug\Zstandard.Net.dll
+D:\Do it\C#\Для резюме\nameGenerator\bin\Debug\Google.Protobuf.xml
+D:\Do it\C#\Для резюме\nameGenerator\bin\Debug\K4os.Compression.LZ4.xml
+D:\Do it\C#\Для резюме\nameGenerator\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Do it\C#\Для резюме\nameGenerator\bin\Debug\K4os.Hash.xxHash.xml
+D:\Do it\C#\Для резюме\nameGenerator\bin\Debug\MySql.Data.xml
+D:\Do it\C#\Для резюме\nameGenerator\bin\Debug\Renci.SshNet.xml
+D:\Do it\C#\Для резюме\nameGenerator\bin\Debug\System.Buffers.xml
+D:\Do it\C#\Для резюме\nameGenerator\bin\Debug\System.Memory.xml
+D:\Do it\C#\Для резюме\nameGenerator\bin\Debug\System.Numerics.Vectors.xml
+D:\Do it\C#\Для резюме\nameGenerator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Do it\C#\Для резюме\nameGenerator\obj\Debug\nameGenerator.Form1.resources
+D:\Do it\C#\Для резюме\nameGenerator\obj\Debug\nameGenerator.Properties.Resources.resources
+D:\Do it\C#\Для резюме\nameGenerator\obj\Debug\nameGenerator.csproj.GenerateResource.cache
+D:\Do it\C#\Для резюме\nameGenerator\obj\Debug\nameGenerator.csproj.CoreCompileInputs.cache
+D:\Do it\C#\Для резюме\nameGenerator\obj\Debug\nameGenerator.csproj.CopyComplete
+D:\Do it\C#\Для резюме\nameGenerator\obj\Debug\nameGenerator.exe
+D:\Do it\C#\Для резюме\nameGenerator\obj\Debug\nameGenerator.pdb
+D:\Do it\C#\Для резюме\nameGenerator\obj\Debug\nameGenerator.csprojAssemblyReference.cache
+E:\Do it\C#\Projects\nameGenerator\bin\Debug\nameGenerator.exe.config
+E:\Do it\C#\Projects\nameGenerator\bin\Debug\nameGenerator.exe
+E:\Do it\C#\Projects\nameGenerator\bin\Debug\nameGenerator.pdb
+E:\Do it\C#\Projects\nameGenerator\bin\Debug\BouncyCastle.Crypto.dll
+E:\Do it\C#\Projects\nameGenerator\bin\Debug\Google.Protobuf.dll
+E:\Do it\C#\Projects\nameGenerator\bin\Debug\K4os.Compression.LZ4.dll
+E:\Do it\C#\Projects\nameGenerator\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Do it\C#\Projects\nameGenerator\bin\Debug\K4os.Hash.xxHash.dll
+E:\Do it\C#\Projects\nameGenerator\bin\Debug\MySql.Data.dll
+E:\Do it\C#\Projects\nameGenerator\bin\Debug\Renci.SshNet.dll
+E:\Do it\C#\Projects\nameGenerator\bin\Debug\System.Buffers.dll
+E:\Do it\C#\Projects\nameGenerator\bin\Debug\System.Memory.dll
+E:\Do it\C#\Projects\nameGenerator\bin\Debug\System.Numerics.Vectors.dll
+E:\Do it\C#\Projects\nameGenerator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Do it\C#\Projects\nameGenerator\bin\Debug\Ubiety.Dns.Core.dll
+E:\Do it\C#\Projects\nameGenerator\bin\Debug\Zstandard.Net.dll
+E:\Do it\C#\Projects\nameGenerator\bin\Debug\Google.Protobuf.xml
+E:\Do it\C#\Projects\nameGenerator\bin\Debug\K4os.Compression.LZ4.xml
+E:\Do it\C#\Projects\nameGenerator\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Do it\C#\Projects\nameGenerator\bin\Debug\K4os.Hash.xxHash.xml
+E:\Do it\C#\Projects\nameGenerator\bin\Debug\MySql.Data.xml
+E:\Do it\C#\Projects\nameGenerator\bin\Debug\Renci.SshNet.xml
+E:\Do it\C#\Projects\nameGenerator\bin\Debug\System.Buffers.xml
+E:\Do it\C#\Projects\nameGenerator\bin\Debug\System.Memory.xml
+E:\Do it\C#\Projects\nameGenerator\bin\Debug\System.Numerics.Vectors.xml
+E:\Do it\C#\Projects\nameGenerator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Do it\C#\Projects\nameGenerator\obj\Debug\nameGenerator.csprojAssemblyReference.cache
+E:\Do it\C#\Projects\nameGenerator\obj\Debug\nameGenerator.Form1.resources
+E:\Do it\C#\Projects\nameGenerator\obj\Debug\nameGenerator.Properties.Resources.resources
+E:\Do it\C#\Projects\nameGenerator\obj\Debug\nameGenerator.csproj.GenerateResource.cache
+E:\Do it\C#\Projects\nameGenerator\obj\Debug\nameGenerator.csproj.CoreCompileInputs.cache
+E:\Do it\C#\Projects\nameGenerator\obj\Debug\nameGenerator.csproj.CopyComplete
+E:\Do it\C#\Projects\nameGenerator\obj\Debug\nameGenerator.exe
+E:\Do it\C#\Projects\nameGenerator\obj\Debug\nameGenerator.pdb
+E:\Do it\C#\Projects\Generate-name\bin\Debug\nameGenerator.exe.config
+E:\Do it\C#\Projects\Generate-name\bin\Debug\nameGenerator.exe
+E:\Do it\C#\Projects\Generate-name\bin\Debug\nameGenerator.pdb
+E:\Do it\C#\Projects\Generate-name\bin\Debug\BouncyCastle.Crypto.dll
+E:\Do it\C#\Projects\Generate-name\bin\Debug\Google.Protobuf.dll
+E:\Do it\C#\Projects\Generate-name\bin\Debug\K4os.Compression.LZ4.dll
+E:\Do it\C#\Projects\Generate-name\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Do it\C#\Projects\Generate-name\bin\Debug\K4os.Hash.xxHash.dll
+E:\Do it\C#\Projects\Generate-name\bin\Debug\MySql.Data.dll
+E:\Do it\C#\Projects\Generate-name\bin\Debug\Renci.SshNet.dll
+E:\Do it\C#\Projects\Generate-name\bin\Debug\System.Buffers.dll
+E:\Do it\C#\Projects\Generate-name\bin\Debug\System.Memory.dll
+E:\Do it\C#\Projects\Generate-name\bin\Debug\System.Numerics.Vectors.dll
+E:\Do it\C#\Projects\Generate-name\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Do it\C#\Projects\Generate-name\bin\Debug\Ubiety.Dns.Core.dll
+E:\Do it\C#\Projects\Generate-name\bin\Debug\Zstandard.Net.dll
+E:\Do it\C#\Projects\Generate-name\bin\Debug\Google.Protobuf.xml
+E:\Do it\C#\Projects\Generate-name\bin\Debug\K4os.Compression.LZ4.xml
+E:\Do it\C#\Projects\Generate-name\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Do it\C#\Projects\Generate-name\bin\Debug\K4os.Hash.xxHash.xml
+E:\Do it\C#\Projects\Generate-name\bin\Debug\MySql.Data.xml
+E:\Do it\C#\Projects\Generate-name\bin\Debug\Renci.SshNet.xml
+E:\Do it\C#\Projects\Generate-name\bin\Debug\System.Buffers.xml
+E:\Do it\C#\Projects\Generate-name\bin\Debug\System.Memory.xml
+E:\Do it\C#\Projects\Generate-name\bin\Debug\System.Numerics.Vectors.xml
+E:\Do it\C#\Projects\Generate-name\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Do it\C#\Projects\Generate-name\obj\Debug\nameGenerator.csprojAssemblyReference.cache
+E:\Do it\C#\Projects\Generate-name\obj\Debug\nameGenerator.Form1.resources
+E:\Do it\C#\Projects\Generate-name\obj\Debug\nameGenerator.Properties.Resources.resources
+E:\Do it\C#\Projects\Generate-name\obj\Debug\nameGenerator.csproj.GenerateResource.cache
+E:\Do it\C#\Projects\Generate-name\obj\Debug\nameGenerator.csproj.CoreCompileInputs.cache
+E:\Do it\C#\Projects\Generate-name\obj\Debug\nameGenerator.csproj.CopyComplete
+E:\Do it\C#\Projects\Generate-name\obj\Debug\nameGenerator.exe
+E:\Do it\C#\Projects\Generate-name\obj\Debug\nameGenerator.pdb
